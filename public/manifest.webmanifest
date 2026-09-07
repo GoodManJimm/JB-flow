@@ -1,0 +1,17 @@
+{
+   "name": "JB Flow",
+   "short_name": "JB Flow",
+   "description": "Before you go, JB Flow tells you where to check: parking, border traffic, RTS, bus.",
+   "start_url": "/",
+   "display": "standalone",
+   "background_color": "#ffffff",
+   "theme_color": "#1d4ed8",
+   "icons": [
+     {
+        "src": "/icon.svg",
+        "sizes": "any",
+        "type": "image/svg+xml",
+        "purpose": "any"
+      }
+   ]
+}
